@@ -8,3 +8,8 @@ console.log("The even numbers are:" )
 for (i=1; i<=a;i++){
     console.log(i*2)
 }
+
+
+// Ovde nije dobro postavljena petlja :)
+// Treba da ispises parne i neparne brojeve
+// Da li mislis da tvoja petlja ispisuje recimo samo parne? :)
